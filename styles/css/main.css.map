@@ -1,0 +1,23 @@
+{
+    "version": 3,
+    "mappings": "AKAA,AAAA,CAAC,CAAG,CAAC,AAAA,QAAQ,CAAG,CAAC,AAAA,OAAO,AAAA,CACpB,UAAU,CAAE,UAAU,CACzB,AAED,AAAA,IAAI,AAAA,CACA,MAAM,CAAE,CAAC,CACT,OAAO,CAAE,CAAC,CACb,AAED,AAAA,CAAC,AAAA,CACG,eAAe,CAAE,IAAI,CACxB,AAED,AAAA,EAAE,CAAG,EAAE,AAAA,CACH,UAAU,CAAE,IAAI,CAChB,MAAM,CAAE,CAAC,CACT,OAAO,CAAE,CAAC,CACb,AAED,AAAA,GAAG,AAAA,CACC,cAAc,CAAE,MAAM,CACtB,UAAU,CAAE,KAAK,CACpB,AAED,AAAA,UAAU,AAAA,CACN,KAAK,CAAE,MAAM,CACb,MAAM,CAAE,MAAM,CACd,OAAO,CAAE,MAAM,CAClB",
+    "sources": [
+        "../sass/main.scss",
+        "../sass/abstract/_index.scss",
+        "../sass/abstract/_mixins.scss",
+        "../sass/abstract/_variables.scss",
+        "../sass/base/_index.scss",
+        "../sass/base/_base.scss",
+        "../sass/base/_typography.scss",
+        "../sass/components/_index.scss",
+        "../sass/layout/_index.scss",
+        "../sass/layout/_footer.scss",
+        "../sass/layout/_header.scss",
+        "../sass/pages/_index.scss",
+        "../sass/pages/_about.scss",
+        "../sass/pages/_home.scss",
+        "../sass/pages/_services.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
